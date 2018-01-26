@@ -9,5 +9,5 @@ On day2, I sketched ideas from the team and finally on day3, I pick the ideas to
 You can find my prototype on the following link:
 https://marvelapp.com/2i6a3d7
 You dont have to put any login details just click on login button to access the page.
-Every person using the app will have special modules they can acces to. That's why we have the user option on the login page.We tried to keep things as simple as possible for the Director.
+Every person using the app will have special modules they can acces to. That's why we have the user option on the login page.We tried to keep things as clear as possible for the Director.
 Once logged in, you can navigate through the menu links only. 
