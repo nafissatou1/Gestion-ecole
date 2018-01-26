@@ -7,7 +7,7 @@ On day2, I sketched ideas from the team and finally on day3, I pick the ideas to
 
 # Prototype
 You can find my prototype on the following link:
-https://marvelapp.com/2i6a3d7/screen/37704112
+https://marvelapp.com/2i6a3d7
 
 You dont have to put any login details just click on login button to access the page.
 Once logged in, you can navigate through the menu links only. 
